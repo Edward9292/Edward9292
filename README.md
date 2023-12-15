@@ -34,6 +34,6 @@ Don't just spectate; be part of this thrilling adventure! 🚀
 
 Get ready to blast off into the future with me! 🛸
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edward9292&show_icons=true&theme=dark)
 
 Together, we'll conquer the tech cosmos. Thanks for joining the adventure! 🌌🌟
