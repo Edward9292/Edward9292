@@ -38,11 +38,11 @@ Don't just spectate; be part of this thrilling adventure! 🚀
 
 - 📧 Email me at [edwardlin9292@gmail.com] and let's chat about our next mission.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/paohualin/).
-
+<!--
 ## 🚀 Strap In for the Ride!
 
 Get ready to blast off into the future with me! 🛸
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edward9292&show_icons=true&theme=dark)
-
+-->
 Together, we'll conquer the tech cosmos. Thanks for joining the adventure! 🌌🌟
