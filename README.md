@@ -8,6 +8,15 @@ Hello there! I'm Pao Hua Lin, but you can call me Edward, and I'm not just an en
 
 My heart beats for the cutting-edge, the bold, and the future! I am utterly captivated by the realm of Machine Learning and Computer Vision, where mind-bending algorithms come to life, transforming our world in ways we could only dream of!
 
+<!--## My Projects
+
+I enjoy working on projects that push boundaries and solve real-world problems:
+
+- **Project 1:** [Project Name 1](https://github.com/your-username/project-1): Innovative work that speaks for itself.
+- **Project 2:** [Project Name 2](https://github.com/your-username/project-2): A journey into the world of AI.
+- **Project 3:** [Project Name 3](https://github.com/your-username/project-3): A step towards a better future.
+
+-->
 ## 🌌 Exploring the Unknown
 
 I'm not content with just the ordinary! 🚀 I'm currently diving into the depths of:
