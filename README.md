@@ -2,7 +2,7 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue)
 
-Hello there! I'm Pao Hua Lin, but you can call me Edward, and I'm not just an engineer; I'm an explorer on a mission to conquer the world of technology! 🌍 I proudly graduated from the University of Toronto and embarked on a thrilling journey through the ever-evolving landscape of innovation.
+Hello there! I'm Edward, and I'm not just an engineer; I'm an explorer on a mission to conquer the world of technology! 🌍 I proudly graduated from the University of Toronto and embarked on a thrilling journey through the ever-evolving landscape of innovation.
 
 ## 🔥 My Passion: Unleashing the Power of Technology
 
@@ -17,20 +17,7 @@ I enjoy working on projects that push boundaries and solve real-world problems:
 - **Project 3:** [Project Name 3](https://github.com/your-username/project-3): A step towards a better future.
 
 -->
-## 🌌 Exploring the Unknown
 
-I'm not content with just the ordinary! 🚀 I'm currently diving into the depths of:
-
-- **Deep Learning:** Where machines learn to think and dream.
-- **Computer Vision:** Bringing the eyes of AI to the world.
-
-## 🌟 The Universe of Possibilities
-
-What's got my engines roaring? 🌠
-
-- **AI for Good:** Transforming healthcare, the environment, and more.
-- **AI and Creativity:** Unleashing the artist within the machine.
-- **AI Everywhere:** Making everyday life smarter, safer, and more efficient.
 
 ## 💬 Ready to Join the Journey?
 
