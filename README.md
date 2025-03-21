@@ -37,7 +37,7 @@ What's got my engines roaring? 🌠
 Don't just spectate; be part of this thrilling adventure! 🚀
 
 - 📧 Email me at [edwardlin9292@gmail.com] and let's chat about our next mission.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/paohualin/).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/-edward-lin-/).
 <!--
 ## 🚀 Strap In for the Ride!
 
