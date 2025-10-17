@@ -24,7 +24,7 @@ I enjoy working on projects that push boundaries and solve real-world problems:
 Don't just spectate; be part of this thrilling adventure! 🚀
 
 - 📧 Email me at [edwardlin9292@gmail.com] and let's chat about our next mission.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/-edward-lin-/).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/edwardlin9292/).
 <!--
 ## 🚀 Strap In for the Ride!
 
