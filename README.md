@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edward Lin
 
-I’m a software engineer who loves **solving puzzles, diving into complex problems, and building cool stuff**.  
+I’m a software engineer who loves **solving puzzles and building cool stuff**.  
 Welcome to my GitHub! Here, I share my projects, experiments, and anything that challenges me to learn and create.
 
 ---
