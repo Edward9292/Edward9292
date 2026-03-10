@@ -1,21 +1,13 @@
-# 👋 Hi, I'm Edward Lin
+# Edward Lin
+Software Engineer
 
-I’m a software engineer who loves **solving puzzles and building cool stuff**.  
-Welcome to my GitHub! Here, I share my projects, experiments, and anything that challenges me to learn and create.
-
----
-
-## 🔥 Featured Projects
-
-- **[Ontario Parks App](https://github.com/Edward9292/ontario-parks-app)**  
-  React Native app with **audio tours, Google Maps integration**, and cross-device sync.  
-
-- **[CartoonGAN](https://github.com/Edward9292/CartoonGAN)**  
-  Generative Adversarial Network to transform real images into cartoon-style visuals using **PyTorch and OpenCV**.  
+- Website: [edwardlin.dev](https://edwardlin.dev)
+- LinkedIn: [linkedin.com/in/edwardlin9292](https://www.linkedin.com/in/edwardlin9292/)
+- Email: edwardlin9292@gmail.com
 
 ---
 
-## 📫 Connect
+### GitHub Activity
 
-- ✉ [Email](mailto:edwardlin9292@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/edwardlin9292/)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardlin9292&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardlin9292&layout=compact&theme=transparent)
