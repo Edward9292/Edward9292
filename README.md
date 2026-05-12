@@ -8,4 +8,4 @@
 
 💼 **LinkedIn:** [linkedin.com/in/edwardlin9292](https://linkedin.com/in/edwardlin9292)
 
-📧 **Email:** [edwardlin9292@gmail.com](mailto:edwardlin9292@gmail.com)
+📧 **Email:** [edwardlin.dev@outlook.com](mailto:edwardlin.dev@outlook.com)
